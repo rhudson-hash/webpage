@@ -1,0 +1,36 @@
+h3 {
+    text-align: center;
+}
+ h1 {
+        color:darkslateblue;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    h3 {
+        color: darkslateblue;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .text-style {
+        color: rgb(39, 12, 212);
+        font-size: 15px;
+    }
+  body{
+background-color: rgba(7, 7, 230, 0.532)
+  }  
+  body {
+    background-image: url('pictures/picture perfect.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1, h2, h3, ul, p {
+    background-color: rgba(240, 127, 255, 0.664);
+}
+.box {
+    background-image:url(pictures/free\ mind.webp);
+    background-position: center;
+    
+}
+
+img {
+    width: 30vh;
+}
